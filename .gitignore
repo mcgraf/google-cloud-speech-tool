@@ -1,0 +1,9 @@
+.idea
+config.yml
+*.pyc
+*.json
+*.raw
+*.flac
+*.wav
+*.mp3
+.DS_Store

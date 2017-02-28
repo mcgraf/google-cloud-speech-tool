@@ -1,0 +1,5 @@
+PyYAML
+av==0.3.2
+ffmpy==0.2.2
+google-cloud-speech==0.23.0
+google-cloud-storage==0.23.0
