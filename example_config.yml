@@ -1,5 +1,5 @@
 google_cloud:
-  credentials_file: 'your-google-project-credentials.json'
+  credentials_file: 'creds.json'
   storage:
-    bucket: your-bucket-name
-    remote_dir: your-bucket-name-subdirectory
+    bucket: speech-demo-2
+    
